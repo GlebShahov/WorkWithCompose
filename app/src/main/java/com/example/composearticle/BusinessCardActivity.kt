@@ -1,4 +1,4 @@
-package com.example.composearticle.ui.theme
+package com.example.composearticle
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

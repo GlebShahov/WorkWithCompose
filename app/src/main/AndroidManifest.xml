@@ -12,11 +12,6 @@
         android:theme="@style/Theme.ComposeArticle"
         tools:targetApi="31">
         <activity
-            android:name=".BusinessCardActivity"
-            android:exported="false"
-            android:label="@string/title_activity_business_card"
-            android:theme="@style/Theme.ComposeArticle" />
-        <activity
             android:name=".QuadrantExActivity"
             android:exported="false"
             android:label="@string/title_activity_quadrant_ex"
@@ -25,11 +20,6 @@
             android:name=".ComposeQuadrantActivity"
             android:exported="false"
             android:label="@string/title_activity_compose_quadrant"
-            android:theme="@style/Theme.ComposeArticle" />
-        <activity
-            android:name=".TaskManager"
-            android:exported="false"
-            android:label="@string/title_activity_task_manager"
             android:theme="@style/Theme.ComposeArticle" />
         <activity
             android:name=".MainActivity"
